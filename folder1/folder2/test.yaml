@@ -1,0 +1,9 @@
+name: Hwan-Yi
+env:
+  prod:
+    omit: true
+capability:
+  nonprod:
+    type:
+    - place
+moreText: 'hello'
